@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @D452108
-- 👀 I’m interested in Web Developer.
-- 🌱 I’m currently learning C, python, HTML
+- 👀 I’m interested in Full Stack .
+- 🌱 I’m currently learning C,C ++, python, HTML
 - 💞️ I’m looking to collaborate on Python.
